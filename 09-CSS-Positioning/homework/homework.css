@@ -53,3 +53,10 @@ text-align: center;
 
 
 /* Ejercicio 6. */
+#ejercicioSiete{
+    display: flexbox;
+    justify-content: right;
+    align-items: right;
+    align-self: right;
+    flex-direction:column ;
+}
